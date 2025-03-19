@@ -1,0 +1,26 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env/
+
+# Streamlit generated files
+/.streamlit/
+
+# Model files
+*.pkl
+
+# Datasets
+/data/  
+*.csv   
